@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "941469334917",
+    "project_id": "worldchat-6809a",
+    "storage_bucket": "worldchat-6809a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941469334917:android:7665105614e92ffdd6d8ec",
+        "android_client_info": {
+          "package_name": "com.example.worldchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941469334917-ndsbfrvloots4vq782b59rg0v1lh9003.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW9bvQZCjBxIQp8d3PZy4QmpJGWs2EoB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941469334917-ndsbfrvloots4vq782b59rg0v1lh9003.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
